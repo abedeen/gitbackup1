@@ -1,6 +1,6 @@
 ---
 parent: Api_v1_users_enterprise-sign-up
-name: UsersCreateUserAInitAbac
+name: UsersCreateUserAInitAbac3
 description: Desc
 authors:
 - apisec Bot
