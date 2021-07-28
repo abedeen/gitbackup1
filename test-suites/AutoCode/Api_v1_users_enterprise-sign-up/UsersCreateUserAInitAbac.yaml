@@ -17,7 +17,7 @@ testCases:
 - id: 1
   body: |-
     {
-      "accountNonExpired" : true,
+      "accountNonExpired" : false,
       "accountNonLocked" : false,
       "company" : "{{@Faker.company.name}}",
       "createdBy" : "",
